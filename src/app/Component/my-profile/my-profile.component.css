@@ -1,0 +1,68 @@
+.div1 h1{
+    display: flex;
+    justify-content: center;
+}
+.div1 h3{
+    display: flex;
+    justify-content: center;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#image{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.aboutMe{
+    color: aliceblue;
+    background-color: #456789;
+    width: 700px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.aboutMe h2{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+.aboutMe p{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.div2 h3{
+    font-size: 20px;
+    margin-top: -2px;
+}
+.div2 h5{
+    color: #636667;
+    font-size: 14px;
+    margin-top: -1px;
+}
+#FinnalIco{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#FIcon{
+    margin-right: 12px;   
+    margin-bottom: 10px;
+}
+.div2 i{
+   margin-right: 15px;
+   margin-bottom: 10%;
+
+}
